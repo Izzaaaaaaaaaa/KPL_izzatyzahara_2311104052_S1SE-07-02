@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\bin\Debug\Tpmodul3_2311104052.exe.config
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\bin\Debug\Tpmodul3_2311104052.exe
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\bin\Debug\Tpmodul3_2311104052.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\obj\Debug\Tpmodul3_2311104052.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\obj\Debug\Tpmodul3_2311104052.Form1.resources
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\obj\Debug\Tpmodul3_2311104052.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\obj\Debug\Tpmodul3_2311104052.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\obj\Debug\Tpmodul3_2311104052.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\obj\Debug\Tpmodul3_2311104052.exe
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\03_GUI_Builder_dan_GitHub\Tpmodul3_2311104052\Tpmodul3_2311104052\obj\Debug\Tpmodul3_2311104052.pdb
