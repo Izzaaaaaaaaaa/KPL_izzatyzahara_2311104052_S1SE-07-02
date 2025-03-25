@@ -1,50 +1,46 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
-    public class SayaTubeUser
+public class SayaTubeUser
+{
+    private int id;
+    private string username;
+    private List<SayaTubeVideo> uploadedVideos;
+
+    public SayaTubeUser(string username)
     {
-        private int id;
-        private string Username;
-        private List<SayaTubeVideo> uploadedVideos;
+        Debug.Assert(!string.IsNullOrEmpty(username), "Username tidak boleh kosong!");
+        Debug.Assert(username.Length <= 100, "Username tidak boleh lebih dari 100 karakter!");
 
-        public SayaTubeUser(string username)
+        Random rand = new Random();
+        this.id = rand.Next(10000, 99999);
+        this.username = username;
+        this.uploadedVideos = new List<SayaTubeVideo>();
+    }
+
+    public void AddVideo(SayaTubeVideo video)
+    {
+        Debug.Assert(video != null, "Video tidak boleh null!");
+        uploadedVideos.Add(video);
+    }
+
+    public int GetTotalVideoPlayCount()
+    {
+        int total = 0;
+        foreach (var video in uploadedVideos)
         {
-            if (string.IsNullOrEmpty(username) || username.Length > 100)
-                throw new ArgumentException("Username tidak boleh kosong dan maksimal 100 karakter.");
-
-            Random rand = new Random();
-            this.id = rand.Next(10000, 99999);
-            this.Username = username;
-            this.uploadedVideos = new List<SayaTubeVideo>();
+            total += video.GetPlayCount();
         }
+        return total;
+    }
 
-        public void AddVideo(SayaTubeVideo video)
+    public void PrintAllVideoPlaycount()
+    {
+        Console.WriteLine($"User: {username}");
+        for (int i = 0; i < Math.Min(uploadedVideos.Count, 8); i++)
         {
-            if (video == null)
-                throw new ArgumentNullException(nameof(video), "Video tidak boleh null.");
-
-            uploadedVideos.Add(video);
-        }
-
-        public int GetTotalVideoPlayCount()
-        {
-            int total = 0;
-            foreach (var video in uploadedVideos)
-            {
-                total += video.GetPlayCount();
-            }
-            return total;
-        }
-
-        public void PrintAllVideoPlaycount()
-        {
-            Console.WriteLine($"User: {Username}");
-            int index = 1;
-            foreach (var video in uploadedVideos)
-            {
-                if (index > 8) break; // Maksimal print 8 video
-                Console.WriteLine($"Video {index} judul: {video.GetTitle()}");
-                index++;
-            }
+            Console.WriteLine($"Video {i + 1}: {uploadedVideos[i].GetTitle()}");
         }
     }
+}
