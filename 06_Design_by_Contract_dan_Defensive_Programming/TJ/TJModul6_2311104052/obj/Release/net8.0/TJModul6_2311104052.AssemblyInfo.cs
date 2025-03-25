@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TJModul6_2311104052")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3091c1327812c3ebd0bb55418408b2f3937847c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566b825d8402cbb938ae2c804674fe228c8378c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TJModul6_2311104052")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TJModul6_2311104052")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
