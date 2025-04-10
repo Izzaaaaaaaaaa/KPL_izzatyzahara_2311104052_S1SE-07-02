@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\bin\Debug\net8.0\TpModul7_Kelompok_5.exe
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\bin\Debug\net8.0\TpModul7_Kelompok_5.deps.json
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\bin\Debug\net8.0\TpModul7_Kelompok_5.runtimeconfig.json
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\bin\Debug\net8.0\TpModul7_Kelompok_5.dll
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\bin\Debug\net8.0\TpModul7_Kelompok_5.pdb
+=======
+>>>>>>> Izza
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.sourcelink.json
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.dll
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\refint\TpModul7_Kelompok_5.dll
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.pdb
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\TpModul7_Kelompok_5.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\tpmodul7_kelompok_5\TpModul7_Kelompok_5\TpModul7_Kelompok_5\obj\Debug\net8.0\ref\TpModul7_Kelompok_5.dll
