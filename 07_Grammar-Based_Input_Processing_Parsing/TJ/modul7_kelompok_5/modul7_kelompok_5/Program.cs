@@ -4,9 +4,9 @@ class program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== [2] Menampilkan Parsing Team Members ===");
-        var teamMembers= new TeamMembers2311104052();
-        teamMembers.ReadJSON();
+        Console.WriteLine("=== [3] Menampilkan Parsing Glossary Item ===");
+        var glossaryItem= new GlossaryItem2311104052();
+        glossaryItem.ReadJSON();
         Console.ReadLine();
     }
 }

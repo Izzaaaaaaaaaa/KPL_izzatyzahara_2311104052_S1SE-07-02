@@ -1,0 +1,48 @@
+{
+  "glossary": {
+    "title": "Modern Glossary of Programming Languages",
+    "GlossDiv": {
+      "title": "Programming Concepts",
+      "GlossList": {
+        "GlossEntry": [
+          {
+            "ID": "CSharp",
+            "SortAs": "CSharp",
+            "GlossTerm": "C# Programming Language",
+            "Acronym": "C#",
+            "Abbrev": "Microsoft .NET",
+            "GlossDef": {
+              "para": "A modern, object-oriented programming language developed by Microsoft, used for building various types of applications on the .NET platform.",
+              "GlossSeeAlso": [ "FSharp", "VB.NET" ]
+            },
+            "GlossSee": "programming"
+          },
+          {
+            "ID": "Python",
+            "SortAs": "Python",
+            "GlossTerm": "Python Programming Language",
+            "Acronym": "Py",
+            "Abbrev": "Python 3.x",
+            "GlossDef": {
+              "para": "A high-level, interpreted programming language known for its readability and versatility, widely used in AI, data science, web development, and more.",
+              "GlossSeeAlso": [ "NumPy", "Django" ]
+            },
+            "GlossSee": "programming"
+          },
+          {
+            "ID": "Java",
+            "SortAs": "Java",
+            "GlossTerm": "Java Programming Language",
+            "Acronym": "Java",
+            "Abbrev": "Java SE",
+            "GlossDef": {
+              "para": "A class-based, object-oriented language that is designed to have as few implementation dependencies as possible, commonly used for enterprise applications.",
+              "GlossSeeAlso": [ "JVM", "Kotlin" ]
+            },
+            "GlossSee": "programming"
+          }
+        ]
+      }
+    }
+  }
+}
