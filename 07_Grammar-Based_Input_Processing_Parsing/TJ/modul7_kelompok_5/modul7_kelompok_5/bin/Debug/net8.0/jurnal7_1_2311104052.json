@@ -1,15 +1,21 @@
 {
-   "firstName": "John",
-   "lastName": "Taslim",
-   "gender": "male",
-   "age": 25,
-   "address": {
-       "streetAddress": "Lengkong",
-       "city": "Bandung",
-       "state": "West Java"
-   },
-   "courses": [
-       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
-       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
-   ]
+  "firstName": "Izzaty",
+  "lastName": "Zahara",
+  "gender": "female",
+  "age": 20,
+  "address": {
+    "streetAddress": "Jamin Ginting",
+    "city": "Brastagi",
+    "state": "indonesia"
+  },
+  "courses": [
+    {
+      "code": "CCK2KAB4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2KAB4",
+      "name": "Pratikum Konstruksi Perangkat Lunak"
+    }
+  ]
 }
