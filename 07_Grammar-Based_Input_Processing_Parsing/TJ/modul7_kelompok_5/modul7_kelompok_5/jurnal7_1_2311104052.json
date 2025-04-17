@@ -1,0 +1,21 @@
+{
+  "firstName": "Izzaty",
+  "lastName": "Zahara",
+  "gender": "female",
+  "age": 20,
+  "address": {
+    "streetAddress": "Jamin Ginting",
+    "city": "Brastagi",
+    "state": "indonesia"
+  },
+  "courses": [
+    {
+      "code": "CCK2KAB4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2KAB4",
+      "name": "Pratikum Konstruksi Perangkat Lunak"
+    }
+  ]
+}
