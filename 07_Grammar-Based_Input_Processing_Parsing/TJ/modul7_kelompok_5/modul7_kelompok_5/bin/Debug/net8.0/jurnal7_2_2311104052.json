@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Izzaty",
+       "lastName": "Zahara",
+       "gender": "female",
+       "age": 20,
+       "nim": "2311104052"
+    },
+    {
+       "firstName": "rizaldy",
+       "lastName": "Aulia",
+       "gender": "male",
+       "age": 20,
+       "nim": "2311104051"
+    },
+    {
+       "firstName": "zaenarif",
+       "lastName": "putra",
+       "gender": "male",
+       "age": 20,
+       "nim": "2311104049"
+    }
+  ]
+}
