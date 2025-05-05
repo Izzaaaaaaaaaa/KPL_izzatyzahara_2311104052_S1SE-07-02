@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.sourcelink.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\10_Library_Construction\TJ\TJMODUL10_2311104052\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll
