@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\bin\Debug\TPMod12_2311104052.exe.config
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\bin\Debug\TPMod12_2311104052.exe
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\bin\Debug\TPMod12_2311104052.pdb
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\obj\Debug\TPMod12_2311104052.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\obj\Debug\TPMod12_2311104052.Form1.resources
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\obj\Debug\TPMod12_2311104052.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\obj\Debug\TPMod12_2311104052.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\obj\Debug\TPMod12_2311104052.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\obj\Debug\TPMod12_2311104052.exe
+C:\Users\ASUS\source\repos\TPMod12_2311104052\TPMod12_2311104052\obj\Debug\TPMod12_2311104052.pdb
