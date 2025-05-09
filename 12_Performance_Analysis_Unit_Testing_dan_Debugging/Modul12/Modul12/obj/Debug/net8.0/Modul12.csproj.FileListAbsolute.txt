@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\bin\Debug\net8.0\Modul12.exe
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\bin\Debug\net8.0\Modul12.deps.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\bin\Debug\net8.0\Modul12.runtimeconfig.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\bin\Debug\net8.0\Modul12.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\bin\Debug\net8.0\Modul12.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.sourcelink.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\refint\Modul12.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\Modul12.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\Modul12\Modul12\obj\Debug\net8.0\ref\Modul12.dll
