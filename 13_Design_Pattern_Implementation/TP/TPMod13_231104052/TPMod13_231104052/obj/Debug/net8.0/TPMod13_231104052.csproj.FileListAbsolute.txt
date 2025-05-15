@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\bin\Debug\net8.0\TPMod13_231104052.exe
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\bin\Debug\net8.0\TPMod13_231104052.deps.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\bin\Debug\net8.0\TPMod13_231104052.runtimeconfig.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\bin\Debug\net8.0\TPMod13_231104052.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\bin\Debug\net8.0\TPMod13_231104052.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.sourcelink.json
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\refint\TPMod13_231104052.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\TPMod13_231104052.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\13_Design_Pattern_Implementation\TP\TPMod13_231104052\TPMod13_231104052\obj\Debug\net8.0\ref\TPMod13_231104052.dll
