@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\KPL_izzatyzahara_2311104052_S1SE-07-02\\13_Design_Pattern_Implementation\\Modul\\TJMod13_2311104052\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161C11C1-ED6F-4AC9-805C-AFA4BEAD3888}|TJMod13_2311104052\\TJMod13_2311104052.csproj|c:\\users\\asus\\source\\repos\\kpl_izzatyzahara_2311104052_s1se-07-02\\13_design_pattern_implementation\\modul\\tjmod13_2311104052\\tjmod13_2311104052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161C11C1-ED6F-4AC9-805C-AFA4BEAD3888}|TJMod13_2311104052\\TJMod13_2311104052.csproj|solutionrelative:tjmod13_2311104052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161C11C1-ED6F-4AC9-805C-AFA4BEAD3888}|TJMod13_2311104052\\TJMod13_2311104052.csproj|c:\\users\\asus\\source\\repos\\kpl_izzatyzahara_2311104052_s1se-07-02\\13_design_pattern_implementation\\modul\\tjmod13_2311104052\\tjmod13_2311104052\\pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161C11C1-ED6F-4AC9-805C-AFA4BEAD3888}|TJMod13_2311104052\\TJMod13_2311104052.csproj|solutionrelative:tjmod13_2311104052\\pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PusatDataSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KPL_izzatyzahara_2311104052_S1SE-07-02\\13_Design_Pattern_Implementation\\Modul\\TJMod13_2311104052\\TJMod13_2311104052\\PusatDataSingleton.cs",
+              "RelativeDocumentMoniker": "TJMod13_2311104052\\PusatDataSingleton.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KPL_izzatyzahara_2311104052_S1SE-07-02\\13_Design_Pattern_Implementation\\Modul\\TJMod13_2311104052\\TJMod13_2311104052\\PusatDataSingleton.cs*",
+              "RelativeToolTip": "TJMod13_2311104052\\PusatDataSingleton.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:11:02.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KPL_izzatyzahara_2311104052_S1SE-07-02\\13_Design_Pattern_Implementation\\Modul\\TJMod13_2311104052\\TJMod13_2311104052\\Program.cs",
+              "RelativeDocumentMoniker": "TJMod13_2311104052\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KPL_izzatyzahara_2311104052_S1SE-07-02\\13_Design_Pattern_Implementation\\Modul\\TJMod13_2311104052\\TJMod13_2311104052\\Program.cs*",
+              "RelativeToolTip": "TJMod13_2311104052\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:10:05.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
