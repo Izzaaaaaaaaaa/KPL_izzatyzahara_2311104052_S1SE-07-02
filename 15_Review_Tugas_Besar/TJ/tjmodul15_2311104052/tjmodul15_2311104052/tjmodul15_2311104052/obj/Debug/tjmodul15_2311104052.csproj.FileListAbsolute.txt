@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\bin\Debug\tjmodul15_2311104052.exe.config
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\bin\Debug\tjmodul15_2311104052.exe
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\bin\Debug\tjmodul15_2311104052.pdb
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.FormLogin.resources
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.FormRegister.resources
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul1.F8344AB4.Up2Date
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.exe
+C:\Users\ASUS\source\repos\KPL_izzatyzahara_2311104052_S1SE-07-02\15_Review_Tugas_Besar\TJ\tjmodul15_2311104052\tjmodul15_2311104052\tjmodul15_2311104052\obj\Debug\tjmodul15_2311104052.pdb
